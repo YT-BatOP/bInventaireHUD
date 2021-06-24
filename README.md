@@ -27,6 +27,10 @@ git clone https://github.com/YT-BatOP/bInventaireHUD [esx]/bInventaireHUD
 - Téléchargement https://github.com/Trsak/esx_inventoryhud/archive/master.zip
 - Mettez le dans le dossier `[esx]`
 
+### Informations 
+Je ne suis pas le créateur de cette ressource :)
+je ne l'ai que REWORK pour mon serveur AuraLife et je leak cette resource sur F - DEV ET Boost - Développement !
+
 ### AUCUN SUPPORT FOURNIS !
 
     background-color: rgba(17, 5, 17, 0.2);
