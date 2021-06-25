@@ -24,7 +24,7 @@ git clone https://github.com/YT-BatOP/bInventaireHUD [esx]/bInventaireHUD
 ```
 
 ### Manuellement
-- Téléchargement https://github.com/Trsak/esx_inventoryhud/archive/master.zip
+- Téléchargement https://github.com/YT-BatOP/bInventaireHUD/archive/refs/heads/main.zip
 - Mettez le dans le dossier `[esx]`
 
 ### Informations 
